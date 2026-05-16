@@ -1,0 +1,6 @@
+{
+  "name": "Bowling Abrir & Cerrar",
+  "description": "Ինտերակտիվ 3D բոուլինգ խաղ Abrir և Cerrar բայերը սովորելու համար: Գլորիր գունդը և հաղթիր Պեդրոյի հետ:",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
